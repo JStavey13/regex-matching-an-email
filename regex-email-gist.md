@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email Address Regex Gist
 
 Welcome to my Gist! In this gist I will breakdown a regular expression (regex) and show you how it works piece by piece. This particular regex will be 
 used for matching an email address in a string of text.
